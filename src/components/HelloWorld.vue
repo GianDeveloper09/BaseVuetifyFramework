@@ -11,7 +11,7 @@
       />
 
       <div class="text-center">
-        <div class="text-body-2 font-weight-light mb-n1">Bienvenido a la plantida de</div>
+        <div class="text-body-2 font-weight-light mb-n1">Bienvenido a la plantilla de</div>
 
         <h1 class="text-h2 font-weight-bold">Vuetify</h1>
       </div>
